@@ -1,0 +1,3 @@
+Assets/mriscan.unity filter=lfs diff=lfs merge=lfs -text
+Assets/mriscan.unity.meta filter=lfs diff=lfs merge=lfs -text
+.gitattributes filter=lfs diff=lfs merge=lfs -text
